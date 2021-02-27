@@ -6,7 +6,7 @@ About Project:
 - Implemented in-memory book repository 
 - Implemented a book model with title, description, author, cover image and price
 - Implemented a function which inserts 2 default books when app initialises
-- Postman Collection:  
+- Postman Collection: Refer Json file  **Wookie Bookstore.postman_collection.json**
 - JSON Endpoints to test APIs:  
 
 
