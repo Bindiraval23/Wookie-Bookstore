@@ -6,6 +6,8 @@ About Project:
 - Implemented in-memory book repository 
 - Implemented a book model with title, description, author, cover image and price
 - Implemented a function which inserts 2 default books when app initialises
+- Implemented code that uploads image/cover-photo of the book to static folder. 
+- Implemented code that deletes image when user removes book from bookstore.
 - Postman Collection: Refer Json file  **Wookie Bookstore.postman_collection.json**
 
 
